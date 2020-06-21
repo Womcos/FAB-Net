@@ -22,7 +22,7 @@ All the experiments are implemented via PyTorch with one Nvidia RTX 2080ti GPU, 
    pip install -v --no-cache-dir ./
    ```
 
-4. Install dependent packages and nnU-Net:
+3. Install dependent packages and nnU-Net:
 
    ```sh
    git clone https://github.com/Womcos/FAB-Net.git
