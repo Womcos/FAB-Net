@@ -57,7 +57,9 @@ The quantitative results of nnU-Net baseline and FAB-Net for infection segmentat
 | FAB-Net | DSC     | 73.59% | 74.10% | 73.67% | 72.12% | 66.30% | **71.95%** |
 |         | NSD     | 76.05% | 74.47% | 80.23% | 75.42% | 68.73% | **74.98%** |
 
+# Questions
 
+Please contact dxfeng@shu.edu.cn
 
 
 
