@@ -70,8 +70,6 @@ The quantitative results of nnU-Net baseline and FAB-Net for lung segmentation t
 |         | Right | DSC     | 89.55% | 88.60% | 92.51% | 90.98% | 91.79% | **90.67%** |
 |         |       | NSD     | 76.25% | 74.87% | 80.47% | 78.49% | 79.60% | **77.94%** |
 
-The blank spaces are experiments under implementation.
-
 # Questions
 
 Please contact dxfeng@shu.edu.cn
