@@ -59,16 +59,16 @@ The quantitative results of nnU-Net baseline and FAB-Net for infection segmentat
 
 The quantitative results of nnU-Net baseline and FAB-Net for lung segmentation task are presented as follows:
 
-| Methods | Lung  | Metrics | Fold 0 | Fold 1 | Fold 2 | Fold 3 | Fold 4 | Avg    |
-| ------- | ----- | ------- | ------ | :----- | ------ | ------ | :----- | ------ |
-| nnU-Net | Left  | DSC     | 84.88% | 80.28% | 87.14% | 88.44% | 88.33% | 85.82% |
-|         |       | NSD     | 68.69% | 61.82% | 74.34% | 75.18% | 75.83% | 71.17% |
-|         | Right | DSC     | 85.21% | 83.88% | 90.34% | 89.86% | 90.22% | 87.90% |
-|         |       | NSD     | 70.55% | 68.25% | 78.45% | 78.45% | 78.31% | 74.80% |
-| FAB-Net | Left  | DSC     | 88.61% | 86.50% | 91.76% |        |        |        |
-|         |       | NSD     | 75.26% | 71.65% | 79.50% |        |        |        |
-|         | Right | DSC     | 89.55% | 88.60% | 92.51% |        |        |        |
-|         |       | NSD     | 76.25% | 74.87% | 80.47% |        |        |        |
+| Methods | Lung  | Metrics | Fold 0 | Fold 1 | Fold 2 | Fold 3 | Fold 4 | Avg        |
+| ------- | ----- | ------- | ------ | :----- | ------ | ------ | :----- | ---------- |
+| nnU-Net | Left  | DSC     | 84.88% | 80.28% | 87.14% | 88.44% | 88.33% | 85.82%     |
+|         |       | NSD     | 68.69% | 61.82% | 74.34% | 75.18% | 75.83% | 71.17%     |
+|         | Right | DSC     | 85.21% | 83.88% | 90.34% | 89.86% | 90.22% | 87.90%     |
+|         |       | NSD     | 70.55% | 68.25% | 78.45% | 78.45% | 78.31% | 74.80%     |
+| FAB-Net | Left  | DSC     | 88.61% | 86.50% | 91.76% | 88.79% | 91.10% | **89.35%** |
+|         |       | NSD     | 75.26% | 71.65% | 79.50% | 76.17% | 78.19% | **76.15%** |
+|         | Right | DSC     | 89.55% | 88.60% | 92.51% | 90.98% | 91.79% | **90.67%** |
+|         |       | NSD     | 76.25% | 74.87% | 80.47% | 78.49% | 79.60% | **77.94%** |
 
 The blank spaces are experiments under implementation.
 
